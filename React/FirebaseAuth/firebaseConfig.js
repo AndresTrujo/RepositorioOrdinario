@@ -1,14 +1,14 @@
 
 import { initializeApp } from "firebase/app";
-import{getAuth} from "firebase/auth";
+import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAIvQNIFasez7t_kXyjP9ZuxdNIZhYv2cA",
-  authDomain: "demofirebaseauth-c55cb.firebaseapp.com",
-  projectId: "demofirebaseauth-c55cb",
-  storageBucket: "demofirebaseauth-c55cb.firebasestorage.app",
-  messagingSenderId: "768055572056",
-  appId: "1:768055572056:web:17034d246fbf7439cfbc2d"
+  apiKey: "AIzaSyD9cBMJY36Ydzbu3hcMht1-VryOQ5OhPII",
+  authDomain: "demofirebaseauth-a766b.firebaseapp.com",
+  projectId: "demofirebaseauth-a766b",
+  storageBucket: "demofirebaseauth-a766b.firebasestorage.app",
+  messagingSenderId: "768055673078",
+  appId: "1:768055673078:web:db73f80a8884dbc3cfbc2d"
 };
 
 // Initialize Firebase

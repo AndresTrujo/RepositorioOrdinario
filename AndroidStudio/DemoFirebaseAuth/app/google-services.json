@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "768055572056",
-    "project_id": "demofirebaseauth-c55cb",
-    "storage_bucket": "demofirebaseauth-c55cb.firebasestorage.app"
+    "project_number": "768055673078",
+    "project_id": "demofirebaseauth-a766b",
+    "storage_bucket": "demofirebaseauth-a766b.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:768055572056:android:db73f80a8884dbc3cfbc2d",
+        "mobilesdk_app_id": "1:768055673078:android:db73f80a8884dbc3cfbc2d",
         "android_client_info": {
           "package_name": "com.example.demofirebaseauth"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDi3auPfUdCLx71IN2y0RhGBuQxt0PhUiM"
+          "current_key": "AIzaSyD9cBMJY36Ydzbu3hcMht1-VryOQ5OhPII"
         }
       ],
       "services": {
